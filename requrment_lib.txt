@@ -1,0 +1,7 @@
+IDE: Jupyter Notebook
+language: Python
+Libraries:
+	*numpy
+	*pandas
+	*matplotlib
+	*seaborn
